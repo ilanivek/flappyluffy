@@ -1,2 +1,4 @@
-# flappyluffy
-one piece flappy bird
+# FlappyLuffy
+One Piece Flappy Bird
+
+https://ilanivek.github.io/flappyluffy/
